@@ -20,12 +20,12 @@
 
 |iOS|Android|
 |:-|:-|
-|![ai_chart ios](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_ios.gif)|![ai_chart android](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_android.gif)|
+|![ai_chart->ios](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_ios.gif)|![ai_chart->android](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_android.gif)|
 |:-|:-|
 
 |macOS|web|
 |:-|:-|
-|![ai_chart macos](https://github.com/pdliuw/ai_chart/blob/master/example/raw/airoute_render_macos.gif)|![ai_chart web](https://github.com/pdliuw/ai_chart/blob/master/example/gif/ai_chart_web.gif)|
+|![ai_chart->macOS](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_macOS.gif)|![ai_chart->web](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_web.gif)|
 |:-|:-|
 
 
