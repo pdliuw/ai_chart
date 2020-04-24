@@ -7,7 +7,7 @@
 |[English Document](https://github.com/pdliuw/ai_chart/blob/master/README_EN.md)|[中文文档](https://github.com/pdliuw/ai_chart)|
 |:-|:-|
 
-## 我们的宗旨是：帮助开发者更加便利开发、切身体会编程之美！
+## Our aim is to help developers make development more convenient and experience the beauty of programming!
 
 ### ai_chart:
 
@@ -16,26 +16,28 @@
 
 [ai_chart](https://github.com/pdliuw/ai_chart) 在[项目](https://github.com/flutter-app-sample/flutter_app_sample)中的实战应用[flutter sample](https://github.com/flutter-app-sample/flutter_app_sample)
 
-## 效果图
+## effect
 
 |iOS|Android|
 |:-|:-|
-|![ai_chart ios](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_ios.gif)|![ai_chart android](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_android.gif)|
+|![ai_chart->ios](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_ios.gif)|![ai_chart->android](https://github.com/pdliuw/ai_chart/blob/master/example/gif/chart_android.gif)|
 |:-|:-|
 
 |macOS|web|
 |:-|:-|
-|![ai_chart macos](https://github.com/pdliuw/ai_chart/blob/master/example/raw/airoute_render_macos.gif)|![ai_chart web](https://github.com/pdliuw/ai_chart/blob/master/example/gif/ai_chart_web.gif)|
+|![ai_chart->macos](https://github.com/pdliuw/ai_chart/blob/master/example/raw/chart_macos.gif)|![ai_chart->web](https://github.com/pdliuw/ai_chart/blob/master/example/gif/ai_chart_web.gif)|
 |:-|:-|
 
 
-## 1.安装
 
-使用当前包作为依赖库
+## 1.Installation
 
-### 1. 依赖此库
+Use the current package as a dependent library
 
-在文件 'pubspec.yaml' 中添加
+
+### 1. Rely on this library
+
+Add in file 'pubspec.yaml'
 
 [![pub package](https://img.shields.io/pub/v/ai_chart.svg)](https://pub.dev/packages/ai_chart)
 
@@ -47,7 +49,7 @@ dependencies:
 
 ```
 
-或以这种方式添加
+or
 
 ```
 
@@ -60,7 +62,7 @@ dependencies:
 
 ### 2. 安装此库
 
-你可以通过下面的命令行来安装此库
+You can install this library via the command line below
 
 ```
 
@@ -69,11 +71,11 @@ $ flutter pub get
 
 ```
 
-你也可以通过项目开发工具通过可视化操作来执行上述步骤
+You can also perform the above steps through the visual operation through the project development tool
 
-### 3. 导入此库
+### 3. Import this library
 
-现在，在你的Dart编辑代码中，你可以使用：
+Now, in your Dart editing code, you can use:
 
 ```
 
@@ -81,7 +83,7 @@ import 'package:ai_chart/ai_chart.dart';
 
 ```
 
-## 2.使用
+## 2.Usage
 
 
 ```
@@ -117,7 +119,7 @@ import 'package:ai_chart/ai_chart.dart';
 
 ```
 
-*6、更多用法[点击，查看更多](https://github.com/pdliuw/ai_chart/blob/master/example/READ.md)
+*6、More usage[click to see more](https://github.com/pdliuw/ai_chart/blob/master/example/READ.md)
 
 
 ## LICENSE
